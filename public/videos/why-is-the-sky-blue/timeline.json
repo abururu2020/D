@@ -1,0 +1,1084 @@
+{
+  "title": "Why is the sky blue?",
+  "duration": 55.108571,
+  "audioDuration": 54.308571,
+  "mock": true,
+  "words": [
+    {
+      "text": "Look",
+      "start": 0.15,
+      "end": 0.3866863905325443,
+      "scene": 0
+    },
+    {
+      "text": "up",
+      "start": 0.44585798816568034,
+      "end": 0.5642011834319525,
+      "scene": 0
+    },
+    {
+      "text": "on",
+      "start": 0.6233727810650885,
+      "end": 0.7417159763313607,
+      "scene": 0
+    },
+    {
+      "text": "a",
+      "start": 0.8008875739644967,
+      "end": 0.8600591715976328,
+      "scene": 0
+    },
+    {
+      "text": "clear",
+      "start": 0.9192307692307689,
+      "end": 1.2150887573964495,
+      "scene": 0
+    },
+    {
+      "text": "day.",
+      "start": 1.2742603550295857,
+      "end": 1.8609467455621305,
+      "scene": 0
+    },
+    {
+      "text": "The",
+      "start": 1.9201183431952666,
+      "end": 2.0976331360946747,
+      "scene": 0
+    },
+    {
+      "text": "sky",
+      "start": 2.1568047337278107,
+      "end": 2.3343195266272185,
+      "scene": 0
+    },
+    {
+      "text": "is",
+      "start": 2.3934911242603545,
+      "end": 2.5118343195266264,
+      "scene": 0
+    },
+    {
+      "text": "blue.",
+      "start": 2.5710059171597623,
+      "end": 3.216863905325442,
+      "scene": 0
+    },
+    {
+      "text": "But",
+      "start": 3.276035502958578,
+      "end": 3.453550295857986,
+      "scene": 0
+    },
+    {
+      "text": "sunlight",
+      "start": 3.512721893491122,
+      "end": 3.9860946745562096,
+      "scene": 0
+    },
+    {
+      "text": "is",
+      "start": 4.0452662721893455,
+      "end": 4.163609467455617,
+      "scene": 0
+    },
+    {
+      "text": "white,",
+      "start": 4.222781065088753,
+      "end": 4.757810650887569,
+      "scene": 0
+    },
+    {
+      "text": "so",
+      "start": 4.816982248520705,
+      "end": 4.935325443786977,
+      "scene": 0
+    },
+    {
+      "text": "where",
+      "start": 4.994497041420113,
+      "end": 5.290355029585792,
+      "scene": 0
+    },
+    {
+      "text": "does",
+      "start": 5.349526627218928,
+      "end": 5.586213017751472,
+      "scene": 0
+    },
+    {
+      "text": "all",
+      "start": 5.645384615384608,
+      "end": 5.822899408284016,
+      "scene": 0
+    },
+    {
+      "text": "that",
+      "start": 5.882071005917152,
+      "end": 6.118757396449696,
+      "scene": 0
+    },
+    {
+      "text": "blue",
+      "start": 6.177928994082832,
+      "end": 6.4146153846153755,
+      "scene": 0
+    },
+    {
+      "text": "come",
+      "start": 6.4737869822485115,
+      "end": 6.710473372781055,
+      "scene": 0
+    },
+    {
+      "text": "from?",
+      "start": 6.769644970414191,
+      "end": 7.415502958579871,
+      "scene": 0
+    },
+    {
+      "text": "White",
+      "start": 7.474674556213007,
+      "end": 7.770532544378686,
+      "scene": 1
+    },
+    {
+      "text": "light",
+      "start": 7.829704142011822,
+      "end": 8.125562130177505,
+      "scene": 1
+    },
+    {
+      "text": "is",
+      "start": 8.184733727810642,
+      "end": 8.303076923076915,
+      "scene": 1
+    },
+    {
+      "text": "really",
+      "start": 8.362248520710052,
+      "end": 8.717278106508873,
+      "scene": 1
+    },
+    {
+      "text": "every",
+      "start": 8.77644970414201,
+      "end": 9.072307692307694,
+      "scene": 1
+    },
+    {
+      "text": "color",
+      "start": 9.131479289940831,
+      "end": 9.427337278106515,
+      "scene": 1
+    },
+    {
+      "text": "mixed",
+      "start": 9.486508875739652,
+      "end": 9.782366863905336,
+      "scene": 1
+    },
+    {
+      "text": "together.",
+      "start": 9.841538461538473,
+      "end": 10.724082840236704,
+      "scene": 1
+    },
+    {
+      "text": "Each",
+      "start": 10.783254437869841,
+      "end": 11.019940828402389,
+      "scene": 1
+    },
+    {
+      "text": "color",
+      "start": 11.079112426035525,
+      "end": 11.37497041420121,
+      "scene": 1
+    },
+    {
+      "text": "is",
+      "start": 11.434142011834346,
+      "end": 11.55248520710062,
+      "scene": 1
+    },
+    {
+      "text": "a",
+      "start": 11.611656804733757,
+      "end": 11.670828402366894,
+      "scene": 1
+    },
+    {
+      "text": "wave,",
+      "start": 11.73000000000003,
+      "end": 12.205857988165715,
+      "scene": 1
+    },
+    {
+      "text": "and",
+      "start": 12.265029585798851,
+      "end": 12.442544378698262,
+      "scene": 1
+    },
+    {
+      "text": "blue",
+      "start": 12.501715976331399,
+      "end": 12.738402366863946,
+      "scene": 1
+    },
+    {
+      "text": "waves",
+      "start": 12.797573964497083,
+      "end": 13.093431952662767,
+      "scene": 1
+    },
+    {
+      "text": "are",
+      "start": 13.152603550295904,
+      "end": 13.330118343195315,
+      "scene": 1
+    },
+    {
+      "text": "much",
+      "start": 13.389289940828451,
+      "end": 13.625976331360999,
+      "scene": 1
+    },
+    {
+      "text": "shorter",
+      "start": 13.685147928994136,
+      "end": 14.099349112426093,
+      "scene": 1
+    },
+    {
+      "text": "than",
+      "start": 14.15852071005923,
+      "end": 14.395207100591778,
+      "scene": 1
+    },
+    {
+      "text": "red",
+      "start": 14.454378698224915,
+      "end": 14.631893491124325,
+      "scene": 1
+    },
+    {
+      "text": "ones.",
+      "start": 14.691065088757462,
+      "end": 15.336923076923146,
+      "scene": 1
+    },
+    {
+      "text": "In",
+      "start": 15.396094674556283,
+      "end": 15.514437869822556,
+      "scene": 2
+    },
+    {
+      "text": "our",
+      "start": 15.573609467455693,
+      "end": 15.751124260355104,
+      "scene": 2
+    },
+    {
+      "text": "atmosphere,",
+      "start": 15.81029585798824,
+      "end": 16.641183431952733,
+      "scene": 2
+    },
+    {
+      "text": "that",
+      "start": 16.700355029585868,
+      "end": 16.93704142011841,
+      "scene": 2
+    },
+    {
+      "text": "light",
+      "start": 16.996213017751543,
+      "end": 17.29207100591722,
+      "scene": 2
+    },
+    {
+      "text": "runs",
+      "start": 17.351242603550354,
+      "end": 17.587928994082894,
+      "scene": 2
+    },
+    {
+      "text": "into",
+      "start": 17.64710059171603,
+      "end": 17.88378698224857,
+      "scene": 2
+    },
+    {
+      "text": "tiny",
+      "start": 17.942958579881704,
+      "end": 18.179644970414245,
+      "scene": 2
+    },
+    {
+      "text": "nitrogen",
+      "start": 18.23881656804738,
+      "end": 18.71218934911246,
+      "scene": 2
+    },
+    {
+      "text": "and",
+      "start": 18.771360946745595,
+      "end": 18.948875739645,
+      "scene": 2
+    },
+    {
+      "text": "oxygen",
+      "start": 19.008047337278136,
+      "end": 19.363076923076946,
+      "scene": 2
+    },
+    {
+      "text": "molecules,",
+      "start": 19.42224852071008,
+      "end": 20.19396449704143,
+      "scene": 2
+    },
+    {
+      "text": "far",
+      "start": 20.253136094674566,
+      "end": 20.43065088757397,
+      "scene": 2
+    },
+    {
+      "text": "smaller",
+      "start": 20.489822485207107,
+      "end": 20.904023668639052,
+      "scene": 2
+    },
+    {
+      "text": "than",
+      "start": 20.963195266272187,
+      "end": 21.199881656804727,
+      "scene": 2
+    },
+    {
+      "text": "the",
+      "start": 21.259053254437863,
+      "end": 21.436568047337268,
+      "scene": 2
+    },
+    {
+      "text": "waves",
+      "start": 21.495739644970403,
+      "end": 21.791597633136078,
+      "scene": 2
+    },
+    {
+      "text": "themselves.",
+      "start": 21.850769230769213,
+      "end": 22.8516568047337,
+      "scene": 2
+    },
+    {
+      "text": "Those",
+      "start": 22.910828402366835,
+      "end": 23.20668639053251,
+      "scene": 3
+    },
+    {
+      "text": "molecules",
+      "start": 23.265857988165646,
+      "end": 23.79840236686386,
+      "scene": 3
+    },
+    {
+      "text": "scatter",
+      "start": 23.857573964496996,
+      "end": 24.271775147928942,
+      "scene": 3
+    },
+    {
+      "text": "short",
+      "start": 24.330946745562077,
+      "end": 24.626804733727752,
+      "scene": 3
+    },
+    {
+      "text": "waves",
+      "start": 24.685976331360887,
+      "end": 24.981834319526563,
+      "scene": 3
+    },
+    {
+      "text": "far",
+      "start": 25.041005917159698,
+      "end": 25.218520710059103,
+      "scene": 3
+    },
+    {
+      "text": "more",
+      "start": 25.277692307692238,
+      "end": 25.514378698224778,
+      "scene": 3
+    },
+    {
+      "text": "than",
+      "start": 25.573550295857913,
+      "end": 25.810236686390454,
+      "scene": 3
+    },
+    {
+      "text": "long",
+      "start": 25.86940828402359,
+      "end": 26.10609467455613,
+      "scene": 3
+    },
+    {
+      "text": "ones.",
+      "start": 26.165266272189264,
+      "end": 26.81112426035494,
+      "scene": 3
+    },
+    {
+      "text": "It's",
+      "start": 26.870295857988076,
+      "end": 27.106982248520616,
+      "scene": 3
+    },
+    {
+      "text": "called",
+      "start": 27.16615384615375,
+      "end": 27.52118343195256,
+      "scene": 3
+    },
+    {
+      "text": "Rayleigh",
+      "start": 27.580355029585697,
+      "end": 28.053727810650777,
+      "scene": 3
+    },
+    {
+      "text": "scattering,",
+      "start": 28.112899408283912,
+      "end": 28.943786982248398,
+      "scene": 3
+    },
+    {
+      "text": "and",
+      "start": 29.002958579881533,
+      "end": 29.180473372780938,
+      "scene": 3
+    },
+    {
+      "text": "blue",
+      "start": 29.239644970414073,
+      "end": 29.476331360946613,
+      "scene": 3
+    },
+    {
+      "text": "scatters",
+      "start": 29.535502958579748,
+      "end": 30.00887573964483,
+      "scene": 3
+    },
+    {
+      "text": "about",
+      "start": 30.068047337277964,
+      "end": 30.36390532544364,
+      "scene": 3
+    },
+    {
+      "text": "five",
+      "start": 30.423076923076774,
+      "end": 30.659763313609314,
+      "scene": 3
+    },
+    {
+      "text": "times",
+      "start": 30.71893491124245,
+      "end": 31.014792899408125,
+      "scene": 3
+    },
+    {
+      "text": "more",
+      "start": 31.07396449704126,
+      "end": 31.3106508875738,
+      "scene": 3
+    },
+    {
+      "text": "than",
+      "start": 31.369822485206935,
+      "end": 31.606508875739475,
+      "scene": 3
+    },
+    {
+      "text": "red.",
+      "start": 31.66568047337261,
+      "end": 32.25236686390515,
+      "scene": 3
+    },
+    {
+      "text": "So",
+      "start": 32.31153846153829,
+      "end": 32.42988165680457,
+      "scene": 4
+    },
+    {
+      "text": "blue",
+      "start": 32.48905325443771,
+      "end": 32.72573964497026,
+      "scene": 4
+    },
+    {
+      "text": "light",
+      "start": 32.7849112426034,
+      "end": 33.08076923076909,
+      "scene": 4
+    },
+    {
+      "text": "bounces",
+      "start": 33.13994082840223,
+      "end": 33.5541420118342,
+      "scene": 4
+    },
+    {
+      "text": "all",
+      "start": 33.61331360946734,
+      "end": 33.790828402366756,
+      "scene": 4
+    },
+    {
+      "text": "over",
+      "start": 33.849999999999895,
+      "end": 34.08668639053245,
+      "scene": 4
+    },
+    {
+      "text": "the",
+      "start": 34.14585798816559,
+      "end": 34.323372781065004,
+      "scene": 4
+    },
+    {
+      "text": "sky",
+      "start": 34.38254437869814,
+      "end": 34.56005917159756,
+      "scene": 4
+    },
+    {
+      "text": "and",
+      "start": 34.6192307692307,
+      "end": 34.79674556213011,
+      "scene": 4
+    },
+    {
+      "text": "reaches",
+      "start": 34.85591715976325,
+      "end": 35.27011834319522,
+      "scene": 4
+    },
+    {
+      "text": "your",
+      "start": 35.32928994082836,
+      "end": 35.565976331360915,
+      "scene": 4
+    },
+    {
+      "text": "eyes",
+      "start": 35.62514792899405,
+      "end": 35.86183431952661,
+      "scene": 4
+    },
+    {
+      "text": "from",
+      "start": 35.921005917159746,
+      "end": 36.1576923076923,
+      "scene": 4
+    },
+    {
+      "text": "every",
+      "start": 36.21686390532544,
+      "end": 36.51272189349113,
+      "scene": 4
+    },
+    {
+      "text": "direction.",
+      "start": 36.57189349112427,
+      "end": 37.51360946745566,
+      "scene": 4
+    },
+    {
+      "text": "Violet",
+      "start": 37.5727810650888,
+      "end": 37.92781065088763,
+      "scene": 5
+    },
+    {
+      "text": "scatters",
+      "start": 37.98698224852077,
+      "end": 38.46035502958588,
+      "scene": 5
+    },
+    {
+      "text": "even",
+      "start": 38.519526627219015,
+      "end": 38.75621301775157,
+      "scene": 5
+    },
+    {
+      "text": "more,",
+      "start": 38.81538461538471,
+      "end": 39.2912426035504,
+      "scene": 5
+    },
+    {
+      "text": "so",
+      "start": 39.35041420118354,
+      "end": 39.46875739644982,
+      "scene": 5
+    },
+    {
+      "text": "why",
+      "start": 39.527928994082956,
+      "end": 39.70544378698237,
+      "scene": 5
+    },
+    {
+      "text": "not",
+      "start": 39.76461538461551,
+      "end": 39.942130177514926,
+      "scene": 5
+    },
+    {
+      "text": "a",
+      "start": 40.001301775148065,
+      "end": 40.0604733727812,
+      "scene": 5
+    },
+    {
+      "text": "purple",
+      "start": 40.11964497041434,
+      "end": 40.474674556213174,
+      "scene": 5
+    },
+    {
+      "text": "sky?",
+      "start": 40.53384615384631,
+      "end": 41.12053254437887,
+      "scene": 5
+    },
+    {
+      "text": "The",
+      "start": 41.17970414201201,
+      "end": 41.35721893491142,
+      "scene": 5
+    },
+    {
+      "text": "sun",
+      "start": 41.41639053254456,
+      "end": 41.59390532544398,
+      "scene": 5
+    },
+    {
+      "text": "sends",
+      "start": 41.653076923077116,
+      "end": 41.94893491124281,
+      "scene": 5
+    },
+    {
+      "text": "less",
+      "start": 42.00810650887595,
+      "end": 42.2447928994085,
+      "scene": 5
+    },
+    {
+      "text": "violet,",
+      "start": 42.30396449704164,
+      "end": 42.89816568047361,
+      "scene": 5
+    },
+    {
+      "text": "and",
+      "start": 42.95733727810675,
+      "end": 43.134852071006165,
+      "scene": 5
+    },
+    {
+      "text": "our",
+      "start": 43.1940236686393,
+      "end": 43.37153846153872,
+      "scene": 5
+    },
+    {
+      "text": "eyes",
+      "start": 43.43071005917186,
+      "end": 43.66739644970441,
+      "scene": 5
+    },
+    {
+      "text": "are",
+      "start": 43.72656804733755,
+      "end": 43.90408284023697,
+      "scene": 5
+    },
+    {
+      "text": "more",
+      "start": 43.963254437870106,
+      "end": 44.19994082840266,
+      "scene": 5
+    },
+    {
+      "text": "sensitive",
+      "start": 44.2591124260358,
+      "end": 44.791656804734046,
+      "scene": 5
+    },
+    {
+      "text": "to",
+      "start": 44.850828402367185,
+      "end": 44.96917159763346,
+      "scene": 5
+    },
+    {
+      "text": "blue.",
+      "start": 45.0283431952666,
+      "end": 45.674201183432295,
+      "scene": 5
+    },
+    {
+      "text": "At",
+      "start": 45.733372781065434,
+      "end": 45.85171597633171,
+      "scene": 6
+    },
+    {
+      "text": "sunset,",
+      "start": 45.91088757396485,
+      "end": 46.50508875739682,
+      "scene": 6
+    },
+    {
+      "text": "light",
+      "start": 46.56426035502996,
+      "end": 46.86011834319565,
+      "scene": 6
+    },
+    {
+      "text": "crosses",
+      "start": 46.91928994082879,
+      "end": 47.33349112426076,
+      "scene": 6
+    },
+    {
+      "text": "so",
+      "start": 47.3926627218939,
+      "end": 47.511005917160176,
+      "scene": 6
+    },
+    {
+      "text": "much",
+      "start": 47.570177514793315,
+      "end": 47.80686390532587,
+      "scene": 6
+    },
+    {
+      "text": "air",
+      "start": 47.86603550295901,
+      "end": 48.043550295858424,
+      "scene": 6
+    },
+    {
+      "text": "that",
+      "start": 48.10272189349156,
+      "end": 48.33940828402412,
+      "scene": 6
+    },
+    {
+      "text": "the",
+      "start": 48.398579881657255,
+      "end": 48.57609467455667,
+      "scene": 6
+    },
+    {
+      "text": "blue",
+      "start": 48.63526627218981,
+      "end": 48.871952662722364,
+      "scene": 6
+    },
+    {
+      "text": "scatters",
+      "start": 48.9311242603555,
+      "end": 49.40449704142061,
+      "scene": 6
+    },
+    {
+      "text": "away,",
+      "start": 49.46366863905375,
+      "end": 49.93952662721944,
+      "scene": 6
+    },
+    {
+      "text": "leaving",
+      "start": 49.99869822485258,
+      "end": 50.41289940828455,
+      "scene": 6
+    },
+    {
+      "text": "reds",
+      "start": 50.47207100591769,
+      "end": 50.708757396450245,
+      "scene": 6
+    },
+    {
+      "text": "and",
+      "start": 50.767928994083384,
+      "end": 50.9454437869828,
+      "scene": 6
+    },
+    {
+      "text": "oranges.",
+      "start": 51.00461538461594,
+      "end": 51.82798816568105,
+      "scene": 6
+    },
+    {
+      "text": "Same",
+      "start": 51.88715976331419,
+      "end": 52.12384615384674,
+      "scene": 6
+    },
+    {
+      "text": "physics,",
+      "start": 52.18301775147988,
+      "end": 52.83639053254499,
+      "scene": 6
+    },
+    {
+      "text": "different",
+      "start": 52.89556213017813,
+      "end": 53.428106508876375,
+      "scene": 6
+    },
+    {
+      "text": "sky.",
+      "start": 53.487278106509514,
+      "end": 54.07396449704207,
+      "scene": 6
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 7.474674556213007,
+      "narration": "Look up on a clear day. The sky is blue. But sunlight is white, so where does all that blue come from?",
+      "visual": "A bright daytime sky, with the question popping up over it.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "Look",
+          "kind": "emoji",
+          "text": "🌤️",
+          "at": 0.15,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "blue",
+          "kind": "headline",
+          "text": "Why blue?",
+          "at": 2.5710059171597623,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "white",
+          "kind": "bullet",
+          "text": "Sunlight is white",
+          "at": 4.222781065088753,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 7.474674556213007,
+      "end": 15.396094674556283,
+      "narration": "White light is really every color mixed together. Each color is a wave, and blue waves are much shorter than red ones.",
+      "visual": "A rainbow splitting out of white light, then short blue waves beside long red waves.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "color",
+          "kind": "emoji",
+          "text": "🌈",
+          "at": 9.131479289940831,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "mixed",
+          "kind": "headline",
+          "text": "Every color",
+          "at": 9.486508875739652,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "shorter",
+          "kind": "bullet",
+          "text": "Blue = short waves",
+          "at": 13.685147928994136,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 15.396094674556283,
+      "end": 22.910828402366835,
+      "narration": "In our atmosphere, that light runs into tiny nitrogen and oxygen molecules, far smaller than the waves themselves.",
+      "visual": "The Earth's atmosphere with tiny molecules floating in it.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "atmosphere",
+          "kind": "emoji",
+          "text": "🌍",
+          "at": 15.81029585798824,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "nitrogen",
+          "kind": "bullet",
+          "text": "Nitrogen",
+          "at": 18.23881656804738,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "oxygen",
+          "kind": "bullet",
+          "text": "Oxygen",
+          "at": 19.008047337278136,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 22.910828402366835,
+      "end": 32.31153846153829,
+      "narration": "Those molecules scatter short waves far more than long ones. It's called Rayleigh scattering, and blue scatters about five times more than red.",
+      "visual": "Light bouncing off molecules in every direction, with a big 5x stat.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "scatter",
+          "kind": "emoji",
+          "text": "💥",
+          "at": 23.857573964496996,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "Rayleigh",
+          "kind": "headline",
+          "text": "Rayleigh scattering",
+          "at": 27.580355029585697,
+          "cueFound": true
+        },
+        {
+          "label": "more scattering for blue",
+          "cue": "five",
+          "kind": "stat",
+          "text": "5x",
+          "at": 30.423076923076774,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 32.31153846153829,
+      "end": 37.5727810650888,
+      "narration": "So blue light bounces all over the sky and reaches your eyes from every direction.",
+      "visual": "Blue light arriving at a pair of eyes from all around.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "eyes",
+          "kind": "emoji",
+          "text": "👀",
+          "at": 35.62514792899405,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "direction",
+          "kind": "bullet",
+          "text": "From every direction",
+          "at": 36.57189349112427,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 37.5727810650888,
+      "end": 45.733372781065434,
+      "narration": "Violet scatters even more, so why not a purple sky? The sun sends less violet, and our eyes are more sensitive to blue.",
+      "visual": "A purple sky that fades back to blue.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "Violet",
+          "kind": "emoji",
+          "text": "💜",
+          "at": 37.5727810650888,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "purple",
+          "kind": "headline",
+          "text": "Why not purple?",
+          "at": 40.11964497041434,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "sensitive",
+          "kind": "bullet",
+          "text": "Our eyes favor blue",
+          "at": 44.2591124260358,
+          "cueFound": true
+        }
+      ]
+    },
+    {
+      "start": 45.733372781065434,
+      "end": 55.108571,
+      "narration": "At sunset, light crosses so much air that the blue scatters away, leaving reds and oranges. Same physics, different sky.",
+      "visual": "A warm orange sunset, ending on the takeaway line.",
+      "elements": [
+        {
+          "label": "",
+          "cue": "sunset",
+          "kind": "emoji",
+          "text": "🌅",
+          "at": 45.91088757396485,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "away",
+          "kind": "bullet",
+          "text": "Blue scatters away",
+          "at": 49.46366863905375,
+          "cueFound": true
+        },
+        {
+          "label": "",
+          "cue": "physics",
+          "kind": "headline",
+          "text": "Same physics, different sky",
+          "at": 52.18301775147988,
+          "cueFound": true
+        }
+      ]
+    }
+  ]
+}

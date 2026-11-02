@@ -1,0 +1,7 @@
+node_modules/
+.env
+out/
+# Generated audio + timings (re-create with `npm run make`).
+# The sample is kept so `npx remotion studio` works right after cloning.
+public/videos/*
+!public/videos/why-is-the-sky-blue/

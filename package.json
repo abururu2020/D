@@ -1,0 +1,27 @@
+{
+  "name": "explainer-reels",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Topic in, explainer reel out: script -> ElevenLabs voice + word timings -> Remotion -> MP4",
+  "type": "module",
+  "scripts": {
+    "make": "node pipeline/make.mjs",
+    "render": "node pipeline/render.mjs",
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "1.4.0",
+    "@remotion/cli": "4.0.540",
+    "@remotion/google-fonts": "4.0.540",
+    "dotenv": "18.0.9",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.540",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}

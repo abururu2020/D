@@ -1,0 +1,67 @@
+{
+  "title": "Why is the sky blue?",
+  "scenes": [
+    {
+      "narration": "Look up on a clear day. The sky is blue. But sunlight is white, so where does all that blue come from?",
+      "visual": "A bright daytime sky, with the question popping up over it.",
+      "elements": [
+        { "kind": "emoji", "text": "🌤️", "label": "", "cue": "Look" },
+        { "kind": "headline", "text": "Why blue?", "label": "", "cue": "blue" },
+        { "kind": "bullet", "text": "Sunlight is white", "label": "", "cue": "white" }
+      ]
+    },
+    {
+      "narration": "White light is really every color mixed together. Each color is a wave, and blue waves are much shorter than red ones.",
+      "visual": "A rainbow splitting out of white light, then short blue waves beside long red waves.",
+      "elements": [
+        { "kind": "emoji", "text": "🌈", "label": "", "cue": "color" },
+        { "kind": "headline", "text": "Every color", "label": "", "cue": "mixed" },
+        { "kind": "bullet", "text": "Blue = short waves", "label": "", "cue": "shorter" }
+      ]
+    },
+    {
+      "narration": "In our atmosphere, that light runs into tiny nitrogen and oxygen molecules, far smaller than the waves themselves.",
+      "visual": "The Earth's atmosphere with tiny molecules floating in it.",
+      "elements": [
+        { "kind": "emoji", "text": "🌍", "label": "", "cue": "atmosphere" },
+        { "kind": "bullet", "text": "Nitrogen", "label": "", "cue": "nitrogen" },
+        { "kind": "bullet", "text": "Oxygen", "label": "", "cue": "oxygen" }
+      ]
+    },
+    {
+      "narration": "Those molecules scatter short waves far more than long ones. It's called Rayleigh scattering, and blue scatters about five times more than red.",
+      "visual": "Light bouncing off molecules in every direction, with a big 5x stat.",
+      "elements": [
+        { "kind": "emoji", "text": "💥", "label": "", "cue": "scatter" },
+        { "kind": "headline", "text": "Rayleigh scattering", "label": "", "cue": "Rayleigh" },
+        { "kind": "stat", "text": "5x", "label": "more scattering for blue", "cue": "five" }
+      ]
+    },
+    {
+      "narration": "So blue light bounces all over the sky and reaches your eyes from every direction.",
+      "visual": "Blue light arriving at a pair of eyes from all around.",
+      "elements": [
+        { "kind": "emoji", "text": "👀", "label": "", "cue": "eyes" },
+        { "kind": "bullet", "text": "From every direction", "label": "", "cue": "direction" }
+      ]
+    },
+    {
+      "narration": "Violet scatters even more, so why not a purple sky? The sun sends less violet, and our eyes are more sensitive to blue.",
+      "visual": "A purple sky that fades back to blue.",
+      "elements": [
+        { "kind": "emoji", "text": "💜", "label": "", "cue": "Violet" },
+        { "kind": "headline", "text": "Why not purple?", "label": "", "cue": "purple" },
+        { "kind": "bullet", "text": "Our eyes favor blue", "label": "", "cue": "sensitive" }
+      ]
+    },
+    {
+      "narration": "At sunset, light crosses so much air that the blue scatters away, leaving reds and oranges. Same physics, different sky.",
+      "visual": "A warm orange sunset, ending on the takeaway line.",
+      "elements": [
+        { "kind": "emoji", "text": "🌅", "label": "", "cue": "sunset" },
+        { "kind": "bullet", "text": "Blue scatters away", "label": "", "cue": "away" },
+        { "kind": "headline", "text": "Same physics, different sky", "label": "", "cue": "physics" }
+      ]
+    }
+  ]
+}

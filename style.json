@@ -1,0 +1,96 @@
+{
+  "_readme": "Every video reads this file. Change a value, then refresh `npx remotion studio` (or re-render) to see it. Keys starting with _ are notes and are ignored.",
+
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "_tailSeconds": "Silence kept after the last word so the video doesn't cut off abruptly.",
+    "tailSeconds": 0.8
+  },
+
+  "colors": {
+    "_background": "Two colors for the background gradient (top -> bottom).",
+    "background": ["#0b1020", "#1b1446"],
+    "text": "#ffffff",
+    "muted": "#a5b4cf",
+    "_accents": "Each scene takes the next accent in this list (scene 1 = first, and so on).",
+    "accents": ["#ffd23f", "#4cc9f0", "#f72585", "#80ffdb", "#ff9f1c"],
+    "cardBackground": "rgba(255, 255, 255, 0.08)",
+    "cardBorder": "rgba(255, 255, 255, 0.16)"
+  },
+
+  "fonts": {
+    "_options": "Montserrat, Inter, Poppins, Anton, Bebas Neue, Roboto. To add more, see src/fonts.ts.",
+    "heading": "Montserrat",
+    "headingWeight": "800",
+    "body": "Inter",
+    "bodyWeight": "600"
+  },
+
+  "layout": {
+    "_padding": "Space kept clear at the screen edges, in pixels.",
+    "padding": 90,
+    "_contentTop": "Where the scene's visuals start (pixels from the top).",
+    "contentTop": 260,
+    "elementGap": 44,
+    "headlineSize": 96,
+    "emojiSize": 220,
+    "statSize": 190,
+    "bulletSize": 54,
+    "showProgressBar": true,
+    "progressBarHeight": 10
+  },
+
+  "captions": {
+    "_position": "Distance of the caption block from the bottom of the screen (pixels).",
+    "bottom": 330,
+    "fontSize": 78,
+    "uppercase": true,
+    "_wordsPerPage": "Max words visible at once. A new 'page' also starts at each sentence end.",
+    "wordsPerPage": 4,
+    "_highlight": "'box' = colored pill behind the active word, 'color' = active word changes color only.",
+    "highlight": "box",
+    "activeTextColor": "#0b1020",
+    "_activeColor": "Use 'accent' to follow the scene accent, or any CSS color.",
+    "activeColor": "accent",
+    "spokenColor": "#ffffff",
+    "upcomingColor": "rgba(255, 255, 255, 0.55)",
+    "strokeWidth": 10,
+    "strokeColor": "rgba(0, 0, 0, 0.85)",
+    "activeScale": 1.08
+  },
+
+  "motion": {
+    "_entrance": "How elements appear on their cue word: 'pop', 'slide-up', 'fade' or 'zoom'.",
+    "entrance": "pop",
+    "_spring": "Lower damping = more bounce. Higher stiffness = faster.",
+    "springDamping": 11,
+    "springStiffness": 140,
+    "_leadFrames": "Start the animation this many frames BEFORE the cue word, so it lands on the word.",
+    "leadFrames": 3,
+    "_sceneFadeFrames": "Cross-fade length between scenes.",
+    "sceneFadeFrames": 8,
+    "_backgroundDrift": "Slow movement of the background blobs. 0 = static.",
+    "backgroundDrift": 1
+  },
+
+  "voice": {
+    "_modelId": "ElevenLabs model. eleven_multilingual_v2 supports the with-timestamps endpoint.",
+    "modelId": "eleven_multilingual_v2",
+    "stability": 0.45,
+    "similarityBoost": 0.8,
+    "style": 0.15,
+    "speed": 1.0
+  },
+
+  "script": {
+    "minScenes": 5,
+    "maxScenes": 7,
+    "targetSeconds": [45, 60],
+    "_wordsPerSecond": "Used to size the script and to fake timings in mock mode.",
+    "wordsPerSecond": 2.6,
+    "_tone": "Free text handed to the script writer.",
+    "tone": "Curious, punchy and friendly. Short sentences. Open with a hook question. End with a memorable one-line takeaway."
+  }
+}
