@@ -1,0 +1,68 @@
+{
+  "title": "What does the US president do?",
+  "scenes": [
+    {
+      "narration": "One person runs the most powerful office on Earth. So what does the US president actually do all day?",
+      "visual": "The White House, with the question popping up over it.",
+      "elements": [
+        { "kind": "emoji", "text": "🏛️", "label": "", "cue": "office" },
+        { "kind": "headline", "text": "The president's job", "label": "", "cue": "president" }
+      ]
+    },
+    {
+      "narration": "Article Two of the Constitution gives the job three big hats: head of state, head of government, and commander in chief.",
+      "visual": "Three hats appearing one after another.",
+      "elements": [
+        { "kind": "emoji", "text": "🎩", "label": "", "cue": "hats" },
+        { "kind": "bullet", "text": "Head of state", "label": "", "cue": "state" },
+        { "kind": "bullet", "text": "Head of government", "label": "", "cue": "government" },
+        { "kind": "bullet", "text": "Commander in chief", "label": "", "cue": "commander" }
+      ]
+    },
+    {
+      "narration": "Congress writes the laws, but the president can sign them or veto them. Congress needs a two-thirds vote to override.",
+      "visual": "A pen signing a bill, then a big veto stamp.",
+      "elements": [
+        { "kind": "emoji", "text": "✍️", "label": "", "cue": "sign" },
+        { "kind": "headline", "text": "Sign or veto", "label": "", "cue": "veto" },
+        { "kind": "stat", "text": "2/3", "label": "vote to override a veto", "cue": "override" }
+      ]
+    },
+    {
+      "narration": "The president also runs the executive branch, picking cabinet members, ambassadors and federal judges. Many need Senate approval.",
+      "visual": "An org chart filling in with appointees.",
+      "elements": [
+        { "kind": "emoji", "text": "👥", "label": "", "cue": "picking" },
+        { "kind": "stat", "text": "4,000", "label": "political appointees, roughly", "cue": "cabinet" },
+        { "kind": "bullet", "text": "Senate confirms key picks", "label": "", "cue": "Senate" }
+      ]
+    },
+    {
+      "narration": "On the world stage, the president leads diplomacy and negotiates treaties, which the Senate must ratify.",
+      "visual": "A globe with handshake lines between countries.",
+      "elements": [
+        { "kind": "emoji", "text": "🌍", "label": "", "cue": "world" },
+        { "kind": "headline", "text": "Chief diplomat", "label": "", "cue": "diplomacy" },
+        { "kind": "bullet", "text": "Treaties need the Senate", "label": "", "cue": "ratify" }
+      ]
+    },
+    {
+      "narration": "To get the job, you must be thirty five, a natural born citizen, and live in the US for fourteen years. A term lasts four years, with a limit of two.",
+      "visual": "A checklist of requirements, then a calendar showing the term.",
+      "elements": [
+        { "kind": "emoji", "text": "🗳️", "label": "", "cue": "job" },
+        { "kind": "stat", "text": "35+", "label": "minimum age", "cue": "thirty" },
+        { "kind": "bullet", "text": "4-year term, max 2", "label": "", "cue": "term" }
+      ]
+    },
+    {
+      "narration": "Big power, but it's checked by Congress and the courts. The president leads, but never alone.",
+      "visual": "Three pillars balancing on a scale, ending on the takeaway line.",
+      "elements": [
+        { "kind": "emoji", "text": "⚖️", "label": "", "cue": "checked" },
+        { "kind": "bullet", "text": "Congress + courts", "label": "", "cue": "courts" },
+        { "kind": "headline", "text": "Leads, but never alone", "label": "", "cue": "never" }
+      ]
+    }
+  ]
+}
