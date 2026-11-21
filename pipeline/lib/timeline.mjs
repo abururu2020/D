@@ -76,7 +76,7 @@ export function buildTimeline({ script, alignment, audioDuration, tailSeconds, m
       return { ...el, at: scene.words[idx].start, cueFound: true };
     });
 
-    return { start, end, narration: scene.narration, visual: scene.visual, elements };
+    return { start, end, narration: scene.narration, visual: scene.visual, diagram: scene.diagram ?? "", elements };
   });
 
   return {

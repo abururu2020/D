@@ -26,7 +26,7 @@ export const Explainer: React.FC<ExplainerProps> = ({ slug, timeline }) => {
         const duration = Math.max(1, toFrames(scene.end) - from + (i < timeline.scenes.length - 1 ? style.motion.sceneFadeFrames : 0));
         return (
           <Sequence key={i} from={from} durationInFrames={duration} name={`Scene ${i + 1}`}>
-            <SceneView scene={scene} index={i} durationInFrames={duration} />
+            <SceneView scene={scene} index={i} durationInFrames={duration} words={timeline.words.filter((w) => w.scene === i)} />
           </Sequence>
         );
       })}

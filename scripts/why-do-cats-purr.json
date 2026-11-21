@@ -5,63 +5,116 @@
       "narration": "Your cat curls up on your lap and starts to purr. It sounds like pure happiness. But scientists say there's a lot more going on.",
       "visual": "A cosy cat on a lap, with a question popping up.",
       "elements": [
-        { "kind": "emoji", "text": "🐈", "label": "", "cue": "cat" },
-        { "kind": "headline", "text": "Why purr?", "label": "", "cue": "purr" },
-        { "kind": "bullet", "text": "Not just happiness", "label": "", "cue": "more" }
-      ]
+        {
+          "kind": "headline",
+          "text": "Why purr?",
+          "label": "",
+          "cue": "purr"
+        },
+        {
+          "kind": "bullet",
+          "text": "Not just happiness",
+          "label": "",
+          "cue": "more"
+        }
+      ],
+      "diagram": "purr-cat"
     },
     {
       "narration": "A purr starts in the voice box. Muscles there twitch open and shut about twenty five times every second, on the breath in and the breath out.",
       "visual": "A throat diagram with vibrating muscles and a big stat.",
       "elements": [
-        { "kind": "emoji", "text": "🎵", "label": "", "cue": "voice" },
-        { "kind": "stat", "text": "25x", "label": "twitches per second", "cue": "twenty" },
-        { "kind": "bullet", "text": "In and out", "label": "", "cue": "out" }
-      ]
+        {
+          "kind": "stat",
+          "text": "25x",
+          "label": "twitches per second",
+          "cue": "twenty"
+        },
+        {
+          "kind": "bullet",
+          "text": "In and out",
+          "label": "",
+          "cue": "out"
+        }
+      ],
+      "diagram": "larynx"
     },
     {
       "narration": "Kittens can purr when they're just a few days old, while they're still blind and deaf. It tells their mother, I'm here, and I'm fine.",
       "visual": "A tiny kitten nuzzling its mother.",
       "elements": [
-        { "kind": "emoji", "text": "🍼", "label": "", "cue": "Kittens" },
-        { "kind": "bullet", "text": "Days old", "label": "", "cue": "days" },
-        { "kind": "headline", "text": "\"I'm here\"", "label": "", "cue": "mother" }
-      ]
+        {
+          "kind": "headline",
+          "text": "A newborn's signal",
+          "label": "",
+          "cue": "tells"
+        }
+      ],
+      "diagram": "kitten-signal"
     },
     {
       "narration": "Here's the twist. Cats also purr when they're hurt, scared, or even giving birth. So purring isn't only joy. It can be self comfort.",
       "visual": "A worried cat at the vet, still purring.",
       "elements": [
-        { "kind": "emoji", "text": "🩹", "label": "", "cue": "hurt" },
-        { "kind": "headline", "text": "Self comfort", "label": "", "cue": "comfort" }
-      ]
+        {
+          "kind": "headline",
+          "text": "Self comfort",
+          "label": "",
+          "cue": "comfort"
+        }
+      ],
+      "diagram": "comfort"
     },
     {
       "narration": "Some researchers think it heals, too. Purr frequencies sit between twenty five and one hundred fifty hertz, the same range used to help bones and muscles repair.",
       "visual": "Sound waves washing over a glowing bone.",
       "elements": [
-        { "kind": "emoji", "text": "🦴", "label": "", "cue": "heals" },
-        { "kind": "stat", "text": "25–150 Hz", "label": "purr frequency", "cue": "hertz" },
-        { "kind": "bullet", "text": "Bone + muscle repair", "label": "", "cue": "repair" }
-      ]
+        {
+          "kind": "stat",
+          "text": "25–150 Hz",
+          "label": "purr frequency",
+          "cue": "hertz"
+        },
+        {
+          "kind": "bullet",
+          "text": "Bone + muscle repair",
+          "label": "",
+          "cue": "repair"
+        }
+      ],
+      "diagram": "frequency"
     },
     {
       "narration": "And some cats have a trick. They hide a high pitched cry inside the purr, a lot like a baby's. It's hard to ignore, especially at breakfast time.",
       "visual": "A cat staring at an empty food bowl at sunrise.",
       "elements": [
-        { "kind": "emoji", "text": "🍽️", "label": "", "cue": "trick" },
-        { "kind": "headline", "text": "The hidden cry", "label": "", "cue": "cry" },
-        { "kind": "bullet", "text": "Hard to ignore", "label": "", "cue": "ignore" }
-      ]
+        {
+          "kind": "headline",
+          "text": "The hidden cry",
+          "label": "",
+          "cue": "cry"
+        },
+        {
+          "kind": "bullet",
+          "text": "Hard to ignore",
+          "label": "",
+          "cue": "ignore"
+        }
+      ],
+      "diagram": "hidden-cry"
     },
     {
       "narration": "So a purr isn't one message. It's a cat's way of saying, I need you, I'm okay, or feed me now.",
       "visual": "The cat back on the lap, ending on the takeaway line.",
       "elements": [
-        { "kind": "emoji", "text": "💛", "label": "", "cue": "purr" },
-        { "kind": "headline", "text": "One sound, many messages", "label": "", "cue": "message" },
-        { "kind": "bullet", "text": "...or feed me now", "label": "", "cue": "feed" }
-      ]
+        {
+          "kind": "headline",
+          "text": "One sound, many messages",
+          "label": "",
+          "cue": "message"
+        }
+      ],
+      "diagram": "messages"
     }
   ]
 }

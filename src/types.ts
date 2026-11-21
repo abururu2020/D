@@ -23,6 +23,7 @@ export type Scene = {
   end: number; // seconds
   narration: string;
   visual: string;
+  diagram?: string; // name of an animated diagram in src/Diagrams.tsx (optional)
   elements: SceneElement[];
 };
 
