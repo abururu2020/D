@@ -20,3 +20,7 @@ Every video's thumbnail follows `thumbnails/template/thumbnail.html` (1280x720; 
 - Bottom-left: three torn-paper labels that build curiosity (e.g. "HIS SIGNS… HIS LIES… HIS END…").
 - Background: dramatic burning sky with a glowing planet or sun, a silhouette of the place, and a crowd at the bottom.
 - Any Arabic or detail on the thumbnail must be accurate to the Quran or authentic hadith (no garbled text).
+
+# Voiceover
+
+- Use the ElevenLabs voice `9nQCoggz87mG7f9fAFdF` for every new video (chosen by the user; replaces `Qla8bn3D6EePM4A27KxH`). Settings: eleven_multilingual_v2, speed 1.0, stability 0.5, similarity 0.8, style 0.
